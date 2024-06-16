@@ -25,3 +25,4 @@ After the initial generation, I made a few touch-ups to the code to ensure it wo
 The touch-ups include:
 - adding JOPLIN_TOKEN environment variable;
 - fixing expected response types for the `fetch*` joplin functions.
+- exported environment variables in a structure.
